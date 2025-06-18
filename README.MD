@@ -100,3 +100,14 @@
         Emitir recetas vinculadas a pacientes y médicos.
 
         Consultar historias clínicas para obtener todos los turnos y recetas asociadas a un paciente.
+
+4. # Como ejecutar Cli 
+Ejecución del sistema
+
+    Asegurate de tener todos los archivos .py en el mismo directorio.
+
+    Abrí una terminal en ese directorio.
+
+    Ejecutá:
+
+python cli.py
